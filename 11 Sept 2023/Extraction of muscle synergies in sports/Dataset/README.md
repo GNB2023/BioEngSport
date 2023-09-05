@@ -53,7 +53,7 @@ No
 
 ## METHODOLOGICAL INFORMATION
 ### Description of methods used for collection/generation of data:
-sEMG signals were acquired from 13 muscles of the injured (or dominant) lower limb and trunk through electromyography wireless probes (BTS FreeEMG 1000, BTS Bioengineering, Milan, Italy) fixed on EMG electrodes (Ag/AgCl) applied over Tibialis Anterior (TA), Peroneus Longus (PL), Peroneus Brevis (PB), Soleus (SO), Lateral Gastrocnemius (LG), Vastus Medialis (VM), Vastus Lateralis (VL), Rectus Femoris (RF), Biceps Femoris (BF), Semitendinosus (ST), Gluteus Medius (GM), Longissimus Dorsii Omolateral to the injured (or dominant) lower limb (LDO), and Longissimus Dorsii of Contralateral side (LDC) in accordance with SENIAM recommendations. To reduce skin impedance, before electrode application, the skin area was shaved and cleaned with ethyl alcohol. A footswitch (Fsw) was placed under the first metatarsal head of the uninjured (non-dominant) foot. SEMG and Fsw signals were recorded with a sampling frequency of 1000 Hz.
+sEMG signals were acquired from 13 muscles of the injured (or dominant) lower limb and trunk through electromyography wireless probes (BTS FreeEMG 1000, BTS Bioengineering, Milan, Italy) fixed on EMG electrodes (Ag/AgCl) applied over Tibialis Anterior (TA), Peroneus Longus (PL), Peroneus Brevis (PB), Soleus (SO), Lateral Gastrocnemius (LG), Vastus Medialis (VM), Vastus Lateralis (VL), Rectus Femoris (RF), Biceps Femoris (BF), Semitendinosus (ST), Gluteus Medius (GM), Longissimus Dorsii of Ipsilateral (or dominant) lower limb (LDI), and Longissimus Dorsii of Contralateral side (LDC) in accordance with SENIAM recommendations. To reduce skin impedance, before electrode application, the skin area was shaved and cleaned with ethyl alcohol. A footswitch (Fsw) was placed under the first metatarsal head of the uninjured (non-dominant) foot. SEMG and Fsw signals were recorded with a sampling frequency of 1000 Hz.
 
 Further details on data acquisitions can be found here:
 1. Ghislieri, M. et al. Muscle Synergy Assessment during Single-Leg Stance. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2020. Doi: 10.1109/TNSRE.2020.3030847
@@ -62,7 +62,7 @@ Further details on data acquisitions can be found here:
 4. Labanca, L. et al. Muscle synergies for the control of single-limb stance with and without visual information in young individuals. BMC Sports Science, Medicine and Rehabilitation, 2021. Doi: 10.1186/s13102-021-00392-z
 
 ### Methods for processing the data:
-No additional info is required to process the data properly.
+No additional info is required to process the data correctly.
 
 ### Instrument- or software-specific information needed to interpret the data:
 No instrument- or software-specific information is needed to properly open the data (*.txt files).
@@ -92,7 +92,7 @@ Each row represents a different time instant as identified by the "Frame" and "T
 1. "Frame": frame
 2. "Time": time-instants expressed in seconds
 3. "Fsw": footswitch signal. The signal was normalized in amplitude to obtain signals that range between 0 and 1, where 0 corresponds to an open Fsw (foot not touching the ground) and 1 corresponds to a closed Fsw (foot on the ground)
-4. "sEMG_PL", "sEMG_PB", "sEMG_TA", "sEMG_LG", "sEMG_SO", "sEMG_VM", "sEMG_VL", "sEMG_RF", "sEMG_BF", "sEMG_ST", "sEMG_GM", "sEMG_LDO", and "sEMG_LDC": raw surface electromyographic signals.
+4. "sEMG_PL", "sEMG_PB", "sEMG_TA", "sEMG_LG", "sEMG_SO", "sEMG_VM", "sEMG_VL", "sEMG_RF", "sEMG_BF", "sEMG_ST", "sEMG_GM", "sEMG_LDI", and "sEMG_LDC": raw surface electromyographic signals.
 
 ### Specialized formats or other abbreviations used:
 1. PL = Peroneus Longus
@@ -106,6 +106,6 @@ Each row represents a different time instant as identified by the "Frame" and "T
 9. BF = Biceps Femoris
 10. ST = SemiTendinosus
 11. GM = Gluteus Medius
-12. LDO = Omolateral Longissimus Dorsii
+12. LDI = Ipsilateral Longissimus Dorsii
 13. LDC = Contralateral Longissimus Dorsii
 
