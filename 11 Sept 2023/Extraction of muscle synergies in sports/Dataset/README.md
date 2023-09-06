@@ -1,11 +1,11 @@
 # README
-This README.txt file was generated on 2023-02-13 by Marco GHISLIERI and modified on 2023-09-05 by Marco GHISLIERI
+This README.md file was generated on 2023-02-13 by Marco GHISLIERI and modified on 2023-09-06 by Marco GHISLIERI
 
 </br>
 
 ## GENERAL INFORMATION
 ### Title:
-Extraction of muscle synergies in sport: applications to the evaluation of chronic ankle instability
+Extraction of muscle synergies in sport: applications to the evaluation of Chronic Ankle Instability (CAI)
 
 ### Author(s) Information: 
 Marco GHISLIERI, Politecnico di Torino, BIOLAB, Department of Electronics and Telecommunications, C.so Duca degli Abruzzi, 24, 10129, Turin, Italy, e-mail: marco.ghislieri@polito.it
@@ -23,10 +23,10 @@ No funding sources
 Data are freely available on GitHub
 
 ### Links to publications that cite or use the data:
-1. Ghislieri, M. et al. Muscle Synergy Assessment during Single-Leg Stance. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2020. Doi: 10.1109/TNSRE.2020.3030847
-2. Ghislieri, M. et al. Methodological issues in the assessment of motor control during single-leg stance. IEEE International Symposium on Medical Measurements and Applications (MeMeA), Bari, Italy, 2020. Doi: 10.1109/MeMeA49120.2020.9137180
-3. Labanca, L. et al. Muscle activations during functional tasks in individuals with chronic ankle instability: a systematic review of electromyographical studies. Gait & Posture, 2021. Doi: 10.1016/j.gaitpost.2021.09.182
-4. Labanca, L. et al. Muscle synergies for the control of single-limb stance with and without visual information in young individuals. BMC Sports Science, Medicine and Rehabilitation, 2021. Doi: 10.1186/s13102-021-00392-z
+1. Ghislieri, M. et al. Muscle Synergy Assessment during Single-Leg Stance. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2020. Doi: [10.1109/TNSRE.2020.3030847](https://pubmed.ncbi.nlm.nih.gov/33048669/)
+2. Ghislieri, M. et al. Methodological issues in the assessment of motor control during single-leg stance. IEEE International Symposium on Medical Measurements and Applications (MeMeA), Bari, Italy, 2020. Doi: [10.1109/MeMeA49120.2020.9137180](https://ieeexplore.ieee.org/abstract/document/9137180)
+3. Labanca, L. et al. Muscle activations during functional tasks in individuals with chronic ankle instability: a systematic review of electromyographical studies. Gait & Posture, 2021. Doi: [10.1016/j.gaitpost.2021.09.182](https://www.sciencedirect.com/science/article/abs/pii/S0966636221004926?via%3Dihub)
+4. Labanca, L. et al. Muscle synergies for the control of single-limb stance with and without visual information in young individuals. BMC Sports Science, Medicine and Rehabilitation, 2021. Doi: [10.1186/s13102-021-00392-z](https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-021-00392-z)
 
 ### Links to other publicly accessible locations of the data:
 No other publicly accessible locations are available.
@@ -56,10 +56,10 @@ No
 sEMG signals were acquired from 13 muscles of the injured (or dominant) lower limb and trunk through electromyography wireless probes (BTS FreeEMG 1000, BTS Bioengineering, Milan, Italy) fixed on EMG electrodes (Ag/AgCl) applied over Tibialis Anterior (TA), Peroneus Longus (PL), Peroneus Brevis (PB), Soleus (SO), Lateral Gastrocnemius (LG), Vastus Medialis (VM), Vastus Lateralis (VL), Rectus Femoris (RF), Biceps Femoris (BF), Semitendinosus (ST), Gluteus Medius (GM), Longissimus Dorsii of Ipsilateral (or dominant) lower limb (LDI), and Longissimus Dorsii of Contralateral side (LDC) in accordance with SENIAM recommendations. To reduce skin impedance, before electrode application, the skin area was shaved and cleaned with ethyl alcohol. A footswitch (Fsw) was placed under the first metatarsal head of the uninjured (non-dominant) foot. SEMG and Fsw signals were recorded with a sampling frequency of 1000 Hz.
 
 Further details on data acquisitions can be found here:
-1. Ghislieri, M. et al. Muscle Synergy Assessment during Single-Leg Stance. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2020. Doi: 10.1109/TNSRE.2020.3030847
-2. Ghislieri, M. et al. Methodological issues in the assessment of motor control during single-leg stance. IEEE International Symposium on Medical Measurements and Applications (MeMeA), Bari, Italy, 2020. Doi: 10.1109/MeMeA49120.2020.9137180
-3. Labanca, L. et al. Muscle activations during functional tasks in individuals with chronic Ankle instability: a systematic review of electromyographical studies. Gait & Posture, 2021. Doi: 10.1016/j.gaitpost.2021.09.182
-4. Labanca, L. et al. Muscle synergies for the control of single-limb stance with and without visual information in young individuals. BMC Sports Science, Medicine and Rehabilitation, 2021. Doi: 10.1186/s13102-021-00392-z
+1. Ghislieri, M. et al. Muscle Synergy Assessment during Single-Leg Stance. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2020. Doi: [10.1109/TNSRE.2020.3030847](https://pubmed.ncbi.nlm.nih.gov/33048669/)
+2. Ghislieri, M. et al. Methodological issues in the assessment of motor control during single-leg stance. IEEE International Symposium on Medical Measurements and Applications (MeMeA), Bari, Italy, 2020. Doi: [10.1109/MeMeA49120.2020.9137180](https://ieeexplore.ieee.org/abstract/document/9137180)
+3. Labanca, L. et al. Muscle activations during functional tasks in individuals with chronic ankle instability: a systematic review of electromyographical studies. Gait & Posture, 2021. Doi: [10.1016/j.gaitpost.2021.09.182](https://www.sciencedirect.com/science/article/abs/pii/S0966636221004926?via%3Dihub)
+4. Labanca, L. et al. Muscle synergies for the control of single-limb stance with and without visual information in young individuals. BMC Sports Science, Medicine and Rehabilitation, 2021. Doi: [10.1186/s13102-021-00392-z](https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-021-00392-z)
 
 ### Methods for processing the data:
 No additional info is required to process the data correctly.
