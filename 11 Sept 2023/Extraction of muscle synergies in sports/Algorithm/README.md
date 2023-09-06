@@ -43,5 +43,5 @@ No
 
 </br>
 
-### Software-specific information needed to run the algorithm:
+## SOFTWARE-SPECIFIC INFORMATION NEEDED TO RUN THE ALGORITHM
 The present algorithm was tested MATLAB© release 2023a and requires the "Signal Processing Toolbox" and the "Image Processing Toolbox" to function.
