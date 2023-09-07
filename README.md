@@ -30,7 +30,7 @@ Group creation will be done on the basis of the self-assessment survey that each
 It is required to have a laptop in which all the following software enviroments/toolboxes/packages must be installed.
 **IMPORTANT**: Download and installation should be done before starting the hands-on sessions.
 
-- MATLAB: “Signal Processing Toolbox” and “Image Processing Toolbox” are required.
+- MATLAB: We suggest using the release 2023a. “Signal Processing Toolbox” and “Image Processing Toolbox” are required.
 
 - R & RStudio: “https://github.com/irinagain/iglu” package is required.
 
@@ -38,7 +38,7 @@ It is required to have a laptop in which all the following software enviroments/
 
 - PYTHON: “Statsbombpy” and “mplsoccer” libraries are required.
 
-- Python: Please ensure that Python is installed on your computer. We suggest using a recent Python version, such as Python 3.x, as many libraries and notebooks are exclusively compatible with this version.
+- Python: We suggest using a recent Python version, such as Python 3.x, as many libraries and notebooks are exclusively compatible with this version.
 
 - Jupyter Notebook or JupyterLab: You will need to have Jupyter Notebook or JupyterLab installed on your computer. You can install it using pip (if you are using Python 3.x) with the following commands:
 “pip install jupyterlab” or “pip install notebook”. Once installation is complete, you can launch Jupyter Notebook or JupyterLab by executing the commands `jupyter notebook` or `jupyter lab` from a terminal window. Libraries “mplsoccer” (https://mplsoccer.readthedocs.io/en/latest/) and “pandas” (https://pandas.pydata.org/) are required.
