@@ -26,7 +26,7 @@ Group creation will be done on the basis of the self-assessment survey that each
    
 3) Each presentation will be assessed by the Award Committee, constituted by prof. Burattini, prof. Knaflitz and prof. Camomilla. The three best teams will be awarded (1st 500€, 2nd 300€, 3rd 200€).
 
-# PARTICIPATION REQUIREMENTS
+# HARDWARE/SOFTWARE REQUIREMENTS
 It is required to have a laptop in which all the following software enviroments/toolboxes/packages are installed.
 **IMPORTANT**: Download and installation should be done before starting the hands-on sessions!
 
