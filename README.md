@@ -36,8 +36,6 @@ It is required to have a laptop in which all the following software enviroments/
 
 - Web software: http://www.oxynet.net.
 
-- PYTHON: “Statsbombpy” and “mplsoccer” libraries are required.
-
 - Python: We suggest using a recent Python version, such as Python 3.x, as many libraries and notebooks are exclusively compatible with this version.
 
 - Jupyter Notebook or JupyterLab: You will need to have Jupyter Notebook or JupyterLab installed on your computer. You can install it using pip (if you are using Python 3.x) with the following commands:
