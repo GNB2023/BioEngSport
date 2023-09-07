@@ -43,4 +43,4 @@ It is required to have a laptop in which all the following software enviroments/
 - Jupyter Notebook or JupyterLab: You will need to have Jupyter Notebook or JupyterLab installed on your computer. You can install it using pip (if you are using Python 3.x) with the following commands:
 “pip install jupyterlab” or “pip install notebook”. Once installation is complete, you can launch Jupyter Notebook or JupyterLab by executing the commands `jupyter notebook` or `jupyter lab` from a terminal window. Libraries “mplsoccer” (https://mplsoccer.readthedocs.io/en/latest/) and “pandas” (https://pandas.pydata.org/) are required.
 
-- If you don't have an appropriate Python version on your machine or encounter any issues accessing or using the free Google Colab resource, you can access it at: https://colab.research.google.com/.PYTHON: “Statsbombpy” and “mplsoccer” libraries are required.
+- If you don't have an appropriate Python version on your machine or encounter any issues accessing or using the free Google Colab resource, you can access it at: https://colab.research.google.com/.
