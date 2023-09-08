@@ -32,7 +32,7 @@ It is required to have a laptop in which all the following software enviroments/
 
 - MATLAB: We suggest using the release 2023a. “Signal Processing Toolbox” and “Image Processing Toolbox” are required.
 
-- R & RStudio: “https://github.com/irinagain/iglu” package is required.
+- R & RStudio: “ https://github.com/irinagain/iglu ” package is required.
 
 - Web software: http://www.oxynet.net.
 
