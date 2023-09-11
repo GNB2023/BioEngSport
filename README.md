@@ -8,23 +8,26 @@ Group creation will be done on the basis of the self-assessment survey that each
 
 # Hands-on sessions
 1)	Participation is mandatory.
-   
-1)	Composition of each team will be made available in this repository.
-   
-1)  Material for each hands-on session will be made available immediately before the specific session and will be stored in the specific folder of this repository.
+
+2) Shared material, including the list and composition of each team is available on this GitHub repository
+
+3) Each team should fill-in a daily report (Google form) with the result(s) of each hands-on session (link to the report provided during each hands-on session). Each Google form must be sent before midnight (only once for each group)
+
 
 # Hands-on Award
 1) Participation is optional.
    
-1) Each team should:
+2) Each team should:
    
-  - Fill-in a daily report (Google form) with the result(s) of each hands-on session. The link to the report will be provided during each hands-on session. The daily report will have to be sent before midnight of each hands-on session day.
+  - Each team should fill-in a daily report (Google form) with the result(s) of each hands-on session (link to the report provided during each hands-on session). Each Google form must be sent before midnight (only once for each group)
     
-  - Prepare a presentation following the 2023_GNB_School_Hands-on_template.pptx, available in this repository.
+  - Prepare a presentation following the 2023_GNB_School_Hands-on_template.pptx (on the GitHub repository). The presentation have to be sent to the following mail address before midnight of Wednesday 13th: gnbschool2023.bioengsport@gmail.com
     
-3) Five teams will be selected as finalists according to the daily report scores and will present their work on Thursday afternoon. The presentation of each team will be 6-minutes long.
+3) Each form will be assessed (0-10 pts) and the average of the 6 google forms will be averaged 
+
+4) Five teams will be selected as finalists and will present their work on Thursday afternoon. The presentation of each team will be 6-minutes long.
    
-3) Each presentation will be assessed by the Award Committee, constituted by prof. Burattini, prof. Camomilla and prof. Knaflitz. The three best teams will be awarded (1st 500€, 2nd 300€, 3rd 200€).
+5) Each presentation will be assessed by the Award Committee, constituted by prof. Burattini, prof. Camomilla and prof. Knaflitz. The three best teams will be awarded (1st 500€, 2nd 300€, 3rd 200€).
 
 # HARDWARE/SOFTWARE REQUIREMENTS
 It is required to have a laptop in which all the following software enviroments/toolboxes/packages must be installed.
