@@ -19,11 +19,11 @@ Group creation will be done on the basis of the self-assessment survey that each
    
 2) Each team should:
    
-  - Fill-in a daily report (Google form) with the result(s) of each hands-on session (link to the report provided during each hands-on session). Each Google form must be sent before midnight (only once for each group)
+  - Fill-in a daily report (Google form) with the result(s) of each hands-on session (link to the report provided during each hands-on session). Each Google form must be sent before midnight (only once for each group).
     
   - Prepare a presentation following the 2023_GNB_School_Hands-on_template.pptx (on the GitHub repository). The presentation have to be sent to the following mail address before midnight of Wednesday 13th: gnbschool2023.bioengsport@gmail.com
     
-3) Each form will be assessed (0-10 pts) and the average of the 6 google forms will be averaged 
+3) Each form will be assessed (0-10 pts) and the average of the 6 google forms will be calculated. 
 
 4) Five teams will be selected as finalists and will present their work on Thursday afternoon. The presentation of each team will be 6-minutes long.
    
